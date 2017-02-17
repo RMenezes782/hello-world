@@ -1,2 +1,2 @@
 # hello-world
-Something
+Hello world.
